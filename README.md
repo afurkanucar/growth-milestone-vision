@@ -1,4 +1,12 @@
-# 👶 Growth-Milestone Vision (AI Tracker)
+# 👶 Growth-Milestone Vision: Pedatric AI Tracker
+
+## 📌 Project Vision
+A specialized Computer Vision tool for monitoring infant development. Specifically calibrated for milestones starting from April 2025 (Gökçe's development dataset).
+
+## 🛠 Methodology
+- **OpenCV Integration:** Automated biometric measurement from visual data.
+- **WHO Standard Alignment:** Real-time comparison against World Health Organization growth curves.
+- **Predictive Analytics:** Uses historical data to forecast upcoming developmental milestones.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
